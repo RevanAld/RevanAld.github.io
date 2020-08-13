@@ -1,17 +1,17 @@
 permalink:           /:title
 
 # Setup
-title:               'Catatan Ashura'
-tagline:             'Asif Hummam Rais kalau disingkat jadi apa?'
-description:         'Blog pribadi Asif, seorang mahasiswa Teknik Informatika ITB, yang mungkin berisi hal-hal <i>random</i> karena pada dasarnya dunia ini dibentuk oleh entropi molekuler yang bersifat acak.'
-url:                 https://hashshura.github.io
+title:               'Revan Manusia Tampan'
+tagline:             'Revan kalo diliat jadi apa?'
+description:         'Apa'
+url:                 https://RevanAld.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:         Asif Hummam Rais
-  url:          https://ashura.id
+  name:         Revan
+  url:          GAPUNYA DOMAIN
   email:        hashshura@gmail.com
 
 # Custom vars
